@@ -13,3 +13,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.header-top {
+    width: 100%;
+    height: 80px;
+}
+
